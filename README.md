@@ -15,4 +15,4 @@ I made sure the sounds would only play if the letters were being added or taken 
 To compile: javac --module-path javafx-sdk-11.0.2\lib --add-modules javafx.controls --add-modules javafx.media Jordle3.java
 To run: java --module-path javafx-sdk-11.0.2\lib --add-modules javafx.controls --add-modules javafx.media Jordle3
 
-You have to use download "Words.java" and the sound effects for the full game.
+You have to download "Words.java" and the sound effects for the full game.
